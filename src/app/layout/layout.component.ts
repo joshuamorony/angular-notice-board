@@ -8,7 +8,7 @@ import { FooterComponent } from "./ui/footer.component";
   selector: "app-layout",
   template: `
     <app-header></app-header>
-    <div class="mx-auto max-w-7xl px-2 py-8 sm:px-6 lg:px-8">
+    <div class="mx-auto max-w-7xl px-8 py-8">
       <router-outlet></router-outlet>
     </div>
     <app-footer></app-footer>
