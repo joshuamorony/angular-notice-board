@@ -10,6 +10,4 @@ import { RouterModule } from "@angular/router";
   styles: [],
   imports: [RouterModule],
 })
-export class AppComponent {
-  title = "basic";
-}
+export class AppComponent {}
